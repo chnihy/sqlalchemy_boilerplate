@@ -1,2 +1,5 @@
-# sqlalchemy_boilerplate
-Boilerplate Flask template with SQL_Alchemy
+# Flask Boiler Plate
+
+A quick collection of some common starting flask project layouts
+
+Suggestions/Requests welcome!
